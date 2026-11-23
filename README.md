@@ -10,7 +10,7 @@
 
 复制下面这句话发给 DeepSeek（DSH）：
 
-> 帮我安装这个插件：https://github.com/yang0/chatgpt2api-dsh
+> 帮我安装这个插件：https://github.com/seven8210/chatgpt2api-dsh
 
 装好之后重启 DSH，左侧插件栏里就会出现 **ChatGPT2API**，点开即可使用。
 
